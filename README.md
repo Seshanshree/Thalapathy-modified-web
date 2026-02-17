@@ -2,8 +2,7 @@
 Overview: 
 	This is a simple fan-oriented site centered on “Thalapathy” movie audio tracks (referring to films starring the Tamil actor Vijay). The site lists several popular Tamil movie soundtracks and provides links for users to click and watch/listen to the audio songs.
 
-
-📀 What the Site Includes:
+What the Site Includes:
 
 The page highlights audio tracks from different movies associated with Thalapathy such as:
 	🎵 Varisu
